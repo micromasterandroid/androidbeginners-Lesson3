@@ -1,0 +1,4 @@
+#Mon Mar 27 22:26:47 CST 2017
+base.0=/Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

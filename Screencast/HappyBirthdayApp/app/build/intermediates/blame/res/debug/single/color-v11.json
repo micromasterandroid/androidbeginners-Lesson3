@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
