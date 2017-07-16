@@ -1,0 +1,7 @@
+#Sun Jul 09 00:47:01 CST 2017
+base.0=C\:\\Users\\ivany\\Desktop\\CustomViewButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e24188cc4004a386a5ef91e08f7068afd7a236ce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ivany\\Desktop\\CustomViewButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_63b14be3b7d90011cc73e0e8dd2f705ccca2cfca\\classes.dex
+base.1=C\:\\Users\\ivany\\Desktop\\CustomViewButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_63b14be3b7d90011cc73e0e8dd2f705ccca2cfca
+file.0=C\:\\Users\\ivany\\Desktop\\CustomViewButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e24188cc4004a386a5ef91e08f7068afd7a236ce\\classes.dex
