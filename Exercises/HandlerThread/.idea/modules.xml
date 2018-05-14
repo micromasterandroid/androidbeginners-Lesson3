@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HandlerThread.iml" filepath="$PROJECT_DIR$/HandlerThread.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\HandlerThread\HandlerThread.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\HandlerThread\HandlerThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\HandlerThread\app\app.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\HandlerThread\app\app.iml" />
     </modules>
   </component>
 </project>

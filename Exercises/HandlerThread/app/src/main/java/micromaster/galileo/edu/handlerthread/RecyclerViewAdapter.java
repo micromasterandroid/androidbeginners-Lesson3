@@ -1,5 +1,6 @@
 package micromaster.galileo.edu.handlerthread;
 
+import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -25,18 +26,19 @@ class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewH
 
         ViewHolder(View view) {
             super(view);
-            pokemonName = (TextView) view.findViewById(R.id.pokemonName);
+            pokemonName = view.findViewById(R.id.pokemonName);
         }
     }
 
+    @NonNull
     @Override
-    public RecyclerViewAdapter.ViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {
+    public RecyclerViewAdapter.ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
         View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.item_list, viewGroup, false);
         return new ViewHolder(view);
     }
 
     @Override
-    public void onBindViewHolder(ViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         holder.pokemonName.setText(arrayList.get(position));
     }
 

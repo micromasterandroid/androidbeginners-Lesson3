@@ -5,5 +5,6 @@
     <string name="main.email.body">Wishing you a day that is as special in every way as you are. Happy Birthday %s!</string>
     <string name="main.email.subject">Happy Birthday!</string>
     <string name="main.email.chooser">Send Birthday email...</string>
+    <string name="contact_profile_image">Contact Profile Image</string>
 
 </resources>

@@ -22,7 +22,7 @@
 
     <com.example.ivany.customviewbutton.views.MyButton
         android:id="@+id/mButton"
-        android:text="My Custom Button"
+        android:text="@string/my_custom_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_constraintTop_creator="1"

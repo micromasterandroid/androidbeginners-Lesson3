@@ -1,90 +1,127 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b3d495e8a9505a28bee03e8da7172738\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\979f4868c9fe2736624f1f3dffbadc0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\41c590d195ed1aeacaf7f7f01c206902\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bb2ceab2875731cd4fcedf40bb34bb87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8392828fa9c01e63961e87752370207\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ab5a72958959a0daaac63460176fe4f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0ad3267e049e7e8a4426236d2bbccedd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\96525e822fbe46b14ad57f966ba196c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fd6e2d9f7790f2c81b9b3ee8d6ca703c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e1e9d8324eb1156d2cadcffbff36bb1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5d7fee68cbf55632ac393d71930283bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e369a79539168c3ec47c407eeea22b77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\191b294d950b739b2a80ce50a88be615\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ccbf4e75aec33a892d508fdb7d7147c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b57ef95b1d858e1b3140ab4d55133631\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b4adaed24dc9b66d82391642cb3e5f0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:3:5-51
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:2:11-69
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:5:5-72
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:5:5-72
 	android:name
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:5:22-69
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:5:22-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:6:5-67
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:8:5-25:19
-MERGED from [com.android.support:design:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
-	android:label
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:11:9-41
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:8:5-25:19
 	android:supportsRtl
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:12:9-35
-	android:allowBackup
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:9:9-35
-	android:icon
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:10:9-43
-	android:theme
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:13:9-40
-activity#edu.galileo.android.happybirthdayapp.MainActivity
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:14:9-23:20
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:17:13-56
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#edu.galileo.android.happybirthdayapp.MainActivity
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:17:13-56
 	android:name
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:15:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:18:13-22:29
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:21:27-74
 activity#edu.galileo.android.happybirthdayapp.AboutMeActivity
-ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:24:9-62
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:24:9-62
 	android:name
-		ADDED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml:24:19-50
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml:24:19-50
 uses-sdk
-INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.0] /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:23:9-59
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b3d495e8a9505a28bee03e8da7172738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b3d495e8a9505a28bee03e8da7172738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\979f4868c9fe2736624f1f3dffbadc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\979f4868c9fe2736624f1f3dffbadc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\41c590d195ed1aeacaf7f7f01c206902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\41c590d195ed1aeacaf7f7f01c206902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bb2ceab2875731cd4fcedf40bb34bb87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bb2ceab2875731cd4fcedf40bb34bb87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8392828fa9c01e63961e87752370207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8392828fa9c01e63961e87752370207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ab5a72958959a0daaac63460176fe4f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ab5a72958959a0daaac63460176fe4f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0ad3267e049e7e8a4426236d2bbccedd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0ad3267e049e7e8a4426236d2bbccedd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\96525e822fbe46b14ad57f966ba196c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\96525e822fbe46b14ad57f966ba196c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fd6e2d9f7790f2c81b9b3ee8d6ca703c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fd6e2d9f7790f2c81b9b3ee8d6ca703c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e1e9d8324eb1156d2cadcffbff36bb1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e1e9d8324eb1156d2cadcffbff36bb1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5d7fee68cbf55632ac393d71930283bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5d7fee68cbf55632ac393d71930283bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e369a79539168c3ec47c407eeea22b77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e369a79539168c3ec47c407eeea22b77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\191b294d950b739b2a80ce50a88be615\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\191b294d950b739b2a80ce50a88be615\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ccbf4e75aec33a892d508fdb7d7147c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ccbf4e75aec33a892d508fdb7d7147c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b57ef95b1d858e1b3140ab4d55133631\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b57ef95b1d858e1b3140ab4d55133631\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b4adaed24dc9b66d82391642cb3e5f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b4adaed24dc9b66d82391642cb3e5f0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jonachavez/Desktop/EDX/Android App Development for Beginners/REPO/Lesson_3/Screencast/HappyBirthdayApp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Screencast\HappyBirthdayApp\app\src\main\AndroidManifest.xml

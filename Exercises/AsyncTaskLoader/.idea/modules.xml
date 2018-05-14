@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AsyncTaskLoader.iml" filepath="$PROJECT_DIR$/AsyncTaskLoader.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AsyncTaskLoader\AsyncTaskLoader.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AsyncTaskLoader\AsyncTaskLoader.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AsyncTaskLoader\app\app.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AsyncTaskLoader\app\app.iml" />
     </modules>
   </component>
 </project>

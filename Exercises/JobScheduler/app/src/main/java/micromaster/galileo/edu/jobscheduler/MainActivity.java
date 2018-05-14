@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 .setPeriodic(REFRESH_INTERVAL)
                 .build();
 
+        assert jobScheduler != null;
         jobScheduler.schedule(jobInfo);
 
     }

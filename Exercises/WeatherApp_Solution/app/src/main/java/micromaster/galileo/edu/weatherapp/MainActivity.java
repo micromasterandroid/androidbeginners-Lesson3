@@ -29,11 +29,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        countryNameTextView = (TextView) findViewById(R.id.countryName);
-        temperatureTextView = (TextView) findViewById(R.id.temperature);
-        pressureTextView = (TextView) findViewById(R.id.pressure);
-        humidityTextView = (TextView) findViewById(R.id.humidity);
-        weather = (TextView) findViewById(R.id.weather);
+        countryNameTextView = findViewById(R.id.countryName);
+        temperatureTextView = findViewById(R.id.temperature);
+        pressureTextView = findViewById(R.id.pressure);
+        humidityTextView = findViewById(R.id.humidity);
+        weather = findViewById(R.id.weather);
 
         //Execute AsyncTask
         new GetWeatherInformation().execute();
@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                 countryNameTextView.setText(weatherResponse.getWeatherData().getDisplayLocation().getCityName());
                 temperatureTextView.setText(weatherResponse.getWeatherData().getTemp());
                 weather.setText(weatherResponse.getWeatherData().getWeather());
-                pressureTextView.setText(weatherResponse.getWeatherData().getPressure().toString());
+                pressureTextView.setText(String.valueOf(weatherResponse.getWeatherData().getPressure()));
                 humidityTextView.setText(weatherResponse.getWeatherData().getHumidity());
             }
 

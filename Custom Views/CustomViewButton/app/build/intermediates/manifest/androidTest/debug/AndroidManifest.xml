@@ -4,7 +4,7 @@
 
     <uses-sdk
         android:minSdkVersion="23"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="27" />
 
     <instrumentation
         android:name="android.support.test.runner.AndroidJUnitRunner"
@@ -13,7 +13,7 @@
         android:label="Tests for com.example.ivany.customviewbutton"
         android:targetPackage="com.example.ivany.customviewbutton" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

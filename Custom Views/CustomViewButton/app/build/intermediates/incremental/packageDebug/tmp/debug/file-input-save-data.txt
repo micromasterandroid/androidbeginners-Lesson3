@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 11 19:52:10 CST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\EEVGG\\Desktop\\Projects\\androidbeginners-Lesson3\\Custom Views\\CustomViewButton\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

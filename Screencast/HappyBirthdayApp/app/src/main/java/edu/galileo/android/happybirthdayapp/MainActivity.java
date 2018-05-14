@@ -9,7 +9,6 @@ import android.os.Build;
 import android.os.Bundle;
 import android.provider.ContactsContract;
 import android.support.annotation.NonNull;
-import android.support.annotation.StringDef;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.LoaderManager;
@@ -40,10 +39,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -53,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         });
 
         setupCursorAdapter();
-        ListView lvContacts = (ListView) findViewById(R.id.lvContacts);
+        ListView lvContacts = findViewById(R.id.lvContacts);
         lvContacts.setAdapter(adapter);
         lvContacts.setOnItemClickListener(this);
 
@@ -83,7 +82,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             if(checkSelfPermission(Manifest.permission.READ_CONTACTS) != PackageManager.PERMISSION_GRANTED){
                 requestPermissions(new String[]{Manifest.permission.READ_CONTACTS}, READ_CONTACTS_PERMISSION_REQUEST);
-                return;
             }
             else{
                 loadingContacts();
@@ -137,6 +135,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     private LoaderManager.LoaderCallbacks<Cursor> contactsLoader = new LoaderManager.LoaderCallbacks<Cursor>(){
 
+        @NonNull
         @Override
         public Loader<Cursor> onCreateLoader(int id, Bundle args) {
 
@@ -158,12 +157,12 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         }
 
         @Override
-        public void onLoadFinished(Loader<Cursor> loader, Cursor data) {
+        public void onLoadFinished(@NonNull Loader<Cursor> loader, Cursor data) {
             adapter.swapCursor(data);
         }
 
         @Override
-        public void onLoaderReset(Loader<Cursor> loader) {
+        public void onLoaderReset(@NonNull Loader<Cursor> loader) {
             adapter.swapCursor(null);
         }
     };
@@ -216,12 +215,13 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 null
         );
 
+        assert cursor != null;
         int emailIdx = cursor.getColumnIndex(ContactsContract.CommonDataKinds.Email.DATA);
 
         if(cursor.moveToFirst()){
             email = cursor.getString(emailIdx);
         }
-
+        cursor.close();
         return email;
 
     }

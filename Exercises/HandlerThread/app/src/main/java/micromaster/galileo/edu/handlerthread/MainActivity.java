@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        recyclerView = (RecyclerView) findViewById(R.id.recyclerview1);
+        recyclerView = findViewById(R.id.recyclerview1);
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getApplicationContext());
         recyclerView.setLayoutManager(layoutManager);
         recyclerViewAdapter = new RecyclerViewAdapter(pokemonList);
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
 
-        final Button button = (Button) findViewById(R.id.pokemonButton);
+        final Button button = findViewById(R.id.pokemonButton);
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 sendNewMessage();
@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
     private void sendNewMessage() {
         Message message = handler.obtainMessage();
 
-        ArrayList<String> listNewPokemons = new ArrayList<String>();
+        ArrayList<String> listNewPokemons = new ArrayList<>();
         listNewPokemons.add("Pikachu");
         listNewPokemons.add("Bulbasaur");
         listNewPokemons.add("Charmander");

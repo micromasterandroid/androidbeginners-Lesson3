@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 12 12:06:17 CST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\EEVGG\\Desktop\\Projects\\androidbeginners-Lesson3\\Screencast\\HappyBirthdayApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

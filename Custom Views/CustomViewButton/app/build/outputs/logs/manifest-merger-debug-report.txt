@@ -1,87 +1,103 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\979f4868c9fe2736624f1f3dffbadc0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cdb1a48125b7a9c90ea3c32ac6c2f6b7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bb2ceab2875731cd4fcedf40bb34bb87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8392828fa9c01e63961e87752370207\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0ad3267e049e7e8a4426236d2bbccedd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\96525e822fbe46b14ad57f966ba196c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fd6e2d9f7790f2c81b9b3ee8d6ca703c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e369a79539168c3ec47c407eeea22b77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\191b294d950b739b2a80ce50a88be615\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ccbf4e75aec33a892d508fdb7d7147c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b57ef95b1d858e1b3140ab4d55133631\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b4adaed24dc9b66d82391642cb3e5f0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:3:5-49
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\8787741b415e7264222d5209c5bc6f21bfc7ffcf\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\398373558f2b239ae683b7abe96043915f9e1c91\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\dbfea6924c208f4449c936606d76905d1f946ced\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\ab65350aa99e85815f82045dd4f6f2474048b02f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\17c654f4654ba53f5af06eec48887ae81a3da9f9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\14fd200b059732abb1828b13b746cde74dbfe3a9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\223c456f9b354bc91e3a5d794c776ab853215d0c\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\acfe8a67502775a5be2fce4f35a829bd85f156c7\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\eac0d0b49d88ed54aed2fe15c8717a44091c4a5f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ivany\.android\build-cache\f0fc48d76008c12164296944e0ca12215e8ab6b9\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:8:9-41
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cdb1a48125b7a9c90ea3c32ac6c2f6b7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cdb1a48125b7a9c90ea3c32ac6c2f6b7\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:9:9-54
-	android:allowBackup
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.ivany.customviewbutton.MainActivity
-ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:12:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:13:13-17:29
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\8787741b415e7264222d5209c5bc6f21bfc7ffcf\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\398373558f2b239ae683b7abe96043915f9e1c91\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\dbfea6924c208f4449c936606d76905d1f946ced\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\ab65350aa99e85815f82045dd4f6f2474048b02f\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\17c654f4654ba53f5af06eec48887ae81a3da9f9\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\14fd200b059732abb1828b13b746cde74dbfe3a9\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\223c456f9b354bc91e3a5d794c776ab853215d0c\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\acfe8a67502775a5be2fce4f35a829bd85f156c7\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\eac0d0b49d88ed54aed2fe15c8717a44091c4a5f\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ivany\.android\build-cache\f0fc48d76008c12164296944e0ca12215e8ab6b9\output\AndroidManifest.xml:5:5-7:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\8787741b415e7264222d5209c5bc6f21bfc7ffcf\output\AndroidManifest.xml:23:9-75
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\979f4868c9fe2736624f1f3dffbadc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\979f4868c9fe2736624f1f3dffbadc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cdb1a48125b7a9c90ea3c32ac6c2f6b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\cdb1a48125b7a9c90ea3c32ac6c2f6b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bb2ceab2875731cd4fcedf40bb34bb87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bb2ceab2875731cd4fcedf40bb34bb87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8392828fa9c01e63961e87752370207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8392828fa9c01e63961e87752370207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0ad3267e049e7e8a4426236d2bbccedd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0ad3267e049e7e8a4426236d2bbccedd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\96525e822fbe46b14ad57f966ba196c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\96525e822fbe46b14ad57f966ba196c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fd6e2d9f7790f2c81b9b3ee8d6ca703c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fd6e2d9f7790f2c81b9b3ee8d6ca703c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e369a79539168c3ec47c407eeea22b77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e369a79539168c3ec47c407eeea22b77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\191b294d950b739b2a80ce50a88be615\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\191b294d950b739b2a80ce50a88be615\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ccbf4e75aec33a892d508fdb7d7147c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ccbf4e75aec33a892d508fdb7d7147c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b57ef95b1d858e1b3140ab4d55133631\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b57ef95b1d858e1b3140ab4d55133631\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b4adaed24dc9b66d82391642cb3e5f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EEVGG\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b4adaed24dc9b66d82391642cb3e5f0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ivany\Desktop\CustomViewButton\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\8787741b415e7264222d5209c5bc6f21bfc7ffcf\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\398373558f2b239ae683b7abe96043915f9e1c91\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\dbfea6924c208f4449c936606d76905d1f946ced\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\ab65350aa99e85815f82045dd4f6f2474048b02f\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\17c654f4654ba53f5af06eec48887ae81a3da9f9\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\14fd200b059732abb1828b13b746cde74dbfe3a9\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\223c456f9b354bc91e3a5d794c776ab853215d0c\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\acfe8a67502775a5be2fce4f35a829bd85f156c7\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\eac0d0b49d88ed54aed2fe15c8717a44091c4a5f\output\AndroidManifest.xml:25:5-27:41
-	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\8787741b415e7264222d5209c5bc6f21bfc7ffcf\output\AndroidManifest.xml:27:9-38
-	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ivany\.android\build-cache\8787741b415e7264222d5209c5bc6f21bfc7ffcf\output\AndroidManifest.xml:26:9-47
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Custom Views\CustomViewButton\app\src\main\AndroidManifest.xml

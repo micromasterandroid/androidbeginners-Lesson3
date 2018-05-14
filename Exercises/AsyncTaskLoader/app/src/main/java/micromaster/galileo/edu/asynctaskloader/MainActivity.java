@@ -1,5 +1,6 @@
 package micromaster.galileo.edu.asynctaskloader;
 
+import android.support.annotation.NonNull;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.Loader;
 import android.support.v7.app.AppCompatActivity;
@@ -20,7 +21,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        recyclerView = (RecyclerView) findViewById(R.id.namesRecyclerview);
+        recyclerView = findViewById(R.id.namesRecyclerview);
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getApplicationContext());
         recyclerView.setLayoutManager(layoutManager);
         recyclerViewAdapter = new RecyclerViewAdapter(namesList);
@@ -29,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         getSupportLoaderManager().initLoader(0, null, this);
     }
 
+    @NonNull
     @Override
     public Loader<ArrayList> onCreateLoader(int id, Bundle args) {
         Loader loader = new NamesAsyncTaskLoader(getApplicationContext());
@@ -36,14 +38,14 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     }
 
     @Override
-    public void onLoadFinished(Loader<ArrayList> loader, ArrayList data) {
+    public void onLoadFinished(@NonNull Loader<ArrayList> loader, ArrayList data) {
         namesList.clear();
         namesList.addAll(data) ;
         recyclerViewAdapter.notifyDataSetChanged();
     }
 
     @Override
-    public void onLoaderReset(Loader<ArrayList> loader) {
+    public void onLoaderReset(@NonNull Loader<ArrayList> loader) {
         namesList.clear();
     }
 

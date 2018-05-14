@@ -12,7 +12,7 @@ public class AboutMeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about_me);
 
-        WebView aboutMe = (WebView) findViewById(R.id.wbAboutMe);
+        WebView aboutMe = findViewById(R.id.wbAboutMe);
         aboutMe.setWebViewClient(new WebViewClient());
 
         aboutMe.loadUrl("http://wwww.isabelpalomar.com");

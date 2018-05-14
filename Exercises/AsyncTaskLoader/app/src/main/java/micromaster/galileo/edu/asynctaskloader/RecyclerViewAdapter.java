@@ -25,7 +25,7 @@ class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewH
 
         ViewHolder(View view) {
             super(view);
-            pokemonName = (TextView) view.findViewById(R.id.userName);
+            pokemonName = view.findViewById(R.id.userName);
         }
     }
 

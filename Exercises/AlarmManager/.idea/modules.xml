@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlarmManager.iml" filepath="$PROJECT_DIR$/AlarmManager.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AlarmManager\AlarmManager.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AlarmManager\AlarmManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AlarmManager\app\app.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\AlarmManager\app\app.iml" />
     </modules>
   </component>
 </project>
