@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WeatherApp_BaseCode.iml" filepath="$PROJECT_DIR$/WeatherApp_BaseCode.iml" />
-      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\WeatherApp_BaseCode\WeatherApp_BaseCode.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\WeatherApp_BaseCode\WeatherApp_BaseCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\WeatherApp_BaseCode\app\app.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson3\Exercises\WeatherApp_BaseCode\app\app.iml" />
     </modules>
   </component>
 </project>
